@@ -1,0 +1,52 @@
+* {box-sizing:border-box;
+  margin: 0px;
+  font-family: Helvetica;}
+
+body {background-image: url(background.jpg);
+  background-size:cover;}
+
+#trasparentbox {width: 790px;
+  height: 600px;
+  background-color: rgba(0,0,0,0.4);
+  border-radius: 2%;
+  margin-left: 250px;
+  margin-top: 20px;}
+
+#corpopagina {margin-left: 45px; color: white;}
+
+header {text-align: center; margin-top:10px;}
+
+.logo {width: 190px;
+  margin-top: 50px;
+  margin-bottom: 10px;}
+
+h2 {color:rgb(0,221,0) }
+
+h4 {margin-top:20px}
+
+span {font-size: 12px}
+
+.barnavigation { width: 700px;
+  height: 35px;
+  background-color: rgb(0,221,0);
+  text-align: center;}
+
+  button {margin-top: 7px;}
+
+  .position:before {
+  content: "\21A6";}
+
+.chargebargino { width: 240px;
+  height:15px;
+  background-color: rgb(245,180,83);
+border-radius: 4px;}
+
+.chargebarmike{width: 380px;
+  height:15px;
+  background-color: rgb(0,221,0);
+  border-radius: 4px;}
+
+.chargebarfede{width: 110px;
+  height:15px;
+  background-color: rgb(190,65,65);
+  border-radius: 4px;}
